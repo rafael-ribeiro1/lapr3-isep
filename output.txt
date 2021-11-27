@@ -1,0 +1,143 @@
+----------------------REGISTAR ESTAFETA----------------------
+
+erro no registo
+
+Estafeta Adicionado a Farmacia -1:
+	E-mail: 1190549@isep.ipp.pt
+
+----------------------REGISTAR ESTAFETA----------------------
+
+erro no registo
+
+Estafeta Adicionado a Farmacia -1:
+	E-mail: 1191118@isep.ipp.pt
+
+----------------------REGISTAR ESTAFETA----------------------
+
+erro no registo
+
+Estafeta Adicionado a Farmacia -1:
+	E-mail: estafeta3@email.com
+
+----------------------REGISTAR ESTAFETA----------------------
+
+erro no registo
+
+Estafeta Adicionado a Farmacia -1:
+	E-mail: estafeta4@email.com
+
+----------------------REGISTAR ESTAFETA----------------------
+
+erro no registo
+
+Estafeta Adicionado a Farmacia -1:
+	E-mail: estafeta5@email.com
+
+----------------------REGISTAR ESTAFETA----------------------
+
+erro no registo
+
+Estafeta Adicionado a Farmacia -1:
+	E-mail: estafeta6@email.com
+
+----------------------REGISTAR ESTAFETA----------------------
+
+erro no registo
+
+Estafeta Adicionado a Farmacia -1:
+	E-mail: estafeta7@email.com
+
+----------------------REGISTAR ESTAFETA----------------------
+
+erro no registo
+
+Estafeta Adicionado a Farmacia -1:
+	E-mail: estafeta8@email.com
+
+----------------------REGISTAR ESTAFETA----------------------
+
+erro no registo
+
+Estafeta Adicionado a Farmacia -1:
+	E-mail: estafeta9@email.com
+
+----------------------ADICIONAR SCOOTER----------------------
+
+Erro no registo da Scooter----------------------ADICIONAR SCOOTER----------------------
+
+Erro no registo da Scooter----------------------ADICIONAR SCOOTER----------------------
+
+Erro no registo da Scooter----------------------ADICIONAR SCOOTER----------------------
+
+Erro no registo da Scooter----------------------ADICIONAR SCOOTER----------------------
+
+Erro no registo da Scooter----------------------ADICIONAR SCOOTER----------------------
+
+Erro no registo da Scooter----------------------ADICIONAR SCOOTER----------------------
+
+Erro no registo da Scooter----------------------ADICIONAR SCOOTER----------------------
+
+Erro no registo da Scooter----------------------ADICIONAR SCOOTER----------------------
+
+Erro no registo da Scooter----------------------ADICIONAR SCOOTER----------------------
+
+Erro no registo da Scooter----------------------ADICIONAR SCOOTER----------------------
+
+Erro no registo da Scooter----------------------ADICIONAR DRONE----------------------
+
+Erro no registo do Drone----------------------ADICIONAR DRONE----------------------
+
+Erro no registo do Drone----------------------ADICIONAR DRONE----------------------
+
+Erro no registo do Drone----------------------ADICIONAR DRONE----------------------
+
+Erro no registo do Drone----------------------ADICIONAR DRONE----------------------
+
+Erro no registo do Drone----------------------ADICIONAR DRONE----------------------
+
+Erro no registo do Drone----------------------ADICIONAR DRONE----------------------
+
+Erro no registo do Drone----------------------ADICIONAR DRONE----------------------
+
+Erro no registo do Drone----------------------ADICIONAR DRONE----------------------
+
+Erro no registo do Drone----------------------ADICIONAR DRONE----------------------
+
+Erro no registo do Drone----------------------ADICIONAR DRONE----------------------
+
+Erro no registo do Drone----------------------ADICIONAR PRODUTO AO SISTEMA----------------------
+
+Produto a Adicionar:
+	Nome: Produto1
+	Valor Unitário: 25,00
+	Preço(com iva): 30,75
+	Peso: 0,45
+	Descrição: Produto 1
+
+----------------------ADICIONAR PRODUTO AO SISTEMA----------------------
+
+Produto a Adicionar:
+	Nome: Produto2
+	Valor Unitário: 30,00
+	Preço(com iva): 36,90
+	Peso: 0,30
+	Descrição: Produto 2
+
+----------------------ADICIONAR PRODUTO AO SISTEMA----------------------
+
+Produto a Adicionar:
+	Nome: Produto3
+	Valor Unitário: 10,00
+	Preço(com iva): 12,30
+	Peso: 0,90
+	Descrição: Produto 3
+
+----------------------ADICIONAR PRODUTO AO SISTEMA----------------------
+
+Produto a Adicionar:
+	Nome: Produto4
+	Valor Unitário: 15,00
+	Preço(com iva): 18,45
+	Peso: 0,20
+	Descrição: Produto 4
+

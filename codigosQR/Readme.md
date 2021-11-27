@@ -1,0 +1,1 @@
+Contém os Códigos QR que identificam os meios de transporte

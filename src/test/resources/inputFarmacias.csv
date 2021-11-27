@@ -1,0 +1,10 @@
+#String nome, String nomeEndereco, String rua, String numPorta, String codPostal, String localidade, String pais, double latitude, double longitude, double altitude , int maximoScooters, int numCargaScooters, int maximoDrones, int numCargaDrones, double potenciaMaxima
+Sousa Torres;ef1;MaiaShopping;135;4425-500;Maia;Portugal;41.21957;-8.56163;91;10;5;8;2;6
+Guifões;ef2;Rua Tourais;376;4460-033;Guifões;Portugal;41.20004;-8.66616;74;9;2;7;4;5
+Avenida;ef3;Rua O Primeiro de Janeiro;1728;4100-116;Porto;Portugal;41.16051;-8.64491;72;8;3;7;4;5
+Sá;ef4;Rua Vale Formoso;181;4200-512;Porto;Portugal;41.16702;-8.61402;132;10;6;10;4;7
+Fânzeres;ef5;Rua Dr Severiano;280;4510-554;Fânzeres;Portugal;41.16114;-8.53359;82;8;6;4;3;3
+Sá da Bandeira;ef6;Rua Sá da Bandeira;236;4000-428;Porto;Portugal;41.14835;-8.61017;85;10;8;5;3;6
+Couto;ef7;Avenida da República;1412;4430-193;Gaia;Portugal;41.12601;-8.60813;114;9;4;8;5;5
+Marques da Cunha;ef8;Rua Cap Aresta;198;4440-539;Valongo;Portugal;41.19764;-8.50177;130;6;3;6;3;3
+Central;ef9;Avenida 5 de Outubro;57;4440-452;Valongo;Portugal;41.18993;-8.50006;123;7;5;6;5;5

@@ -1,0 +1,25 @@
+#username;password;email;nome;numeroCartao;ccv;ano;mes;dia;nomeEndereco;rua;numPorta;codPostal;localidade;pais;latitude;longitude;altitude
+ccplaza;1234;1190424@isep.ipp.pt;CC Plaza;111111111;7201;2023;1;2;ec1;Rua Eng Duarte Pacheco;2048;4470-332;Maia;Portugal;41.23334;-8.62255;110
+ccstop;1234;1190975@isep.ipp.pt;CC Stop;111111112;7202;2024;2;3;ec2;Rua do Heroismo;329;4300-096;Porto;Portugal;41.146006;-8.597118;98
+cccedofeita;1234;cliente3@email.com;CC Cedofeita;111111113;7203;2025;3;4;ec3;Rua de Cedofeita;451;4050-181;Porto;Portugal;41.15455;-8.62133;84
+brasilia;1234;cliente4@email.com;Shopping Brasilia;111111114;7204;2026;4;5;ec4;Praça Mouzinho de Albuquerque;113;4100-359;Porto;Portugal;41.15756;-8.63002;89
+cccarvalhido;1234;cliente5@email.com;CC Carvalhido;111111115;7205;2027;5;6;ec5;Rua do Lugarinho;324;4250-116;Porto;Portugal;41.16777;-8.63236;91
+ccnewcity;1234;cliente6@email.com;CC New City;111111116;7206;2028;6;7;ec6;Avenida Serpa Pinto;487;4450-149;Matosinhos;Portugal;41.18234;-8.69448;9
+ccparque;1234;cliente7@email.com;CC Parque;111111117;6563;2029;7;8;ec7;Rua Alfredo Cunha;155;4450-023;Matosinhos;Portugal;41.18459;-8.68431;28
+traditional;1234;cliente8@email.com;Traditional Shopping;111111118;4356;2030;8;9;ec8;Rua de Santa Catarina;832;4000-267;Porto;Portugal;41.15354;-8.60553;115
+marshopping;1234;cliente9@email.com;Mar Shopping;111111119;7207;2031;9;13;ec9;Avenida Dr Óscar Lopes;30;4450-337;Leça da Palmeira;Portugal;41.20881;-8.68773;49
+norteshopping;1234;cliente10@email.com;Norte Shopping;111111121;7208;2032;10;10;ec10;Rua Sara Afonso;60;4460-841;Senhora da Hora;Portugal;41.18031;-8.65656;86
+alameda;1234;cliente11@email.com;Alameda;111111122;7209;2033;11;11;ec11;Rua Bairro do Comercio;149;4350-005;Porto;Portugal;41.16373;-8.58637;124
+shop;1234;cliente12@email.com;Shop;111111123;1234;2034;12;12;ec12;Praça de Carlos Alberto;109;4050-158;Porto;Portugal;41.14794;-8.61802;81
+espiralcolossal;1234;cliente13@email.com;Espiral Colossal;111111124;1235;2035;1;14;ec13;Rua Alexandre Herculano;134;4000-051;Porto;Portugal;41.14365;-8.60557;83
+praceta;1234;cliente14@email.com;Praceta Salvador Caetano;111111125;1236;2026;2;15;ec14;Rua Jau;35;4430-999;Gaia;Portugal;41.11308;-8.61036;133
+arrabida;1234;cliente15@email.com;Arrabida Shopping;111111126;1237;2036;3;16;ec15;Praceta de Henrique Moreira;244;4400-346;Gaia;Portugal;41.14146;-8.63864;79
+cttvalongo;1234;cliente16@email.com;CTT Valongo;111111127;1238;2037;4;17;ec16;Avenida 5 de Outubro;63;4440-999;Valongo;Portugal;41.18999;-8.49977;123
+cttermesinde;1234;cliente17@email.com;CTT Ermesinde;111111128;1239;2038;5;20;ec17;Rua das Macieiras;222;4445-502;Ermesinde;Portugal;41.20261;-8.54715;125
+cttforno;1234;cliente18@email.com;CTT Forno;111111129;1240;2039;6;18;ec18;Urbanização Mãos à Obra;6;4435-318;Rio Tinto;Portugal;41.19259;-8.57808;135
+cttcondeferreira;1234;cliente19@email.com;CTT Conde Ferreira;111111131;1241;2034;7;19;ec19;Rua das Mercês;152;4200-995;Porto;Portugal;41.17118;-8.59037;137
+cttarcadagua;1234;cliente20@email.com;CTT Arca Dagua;111111132;1242;2056;8;20;ec20;Praça de Abril;49;4200-422;Porto;Portugal;41.17145;-8.61504;129
+cttcampoalegre;1234;cliente21@email.com;CTT Campo Alegre;111111133;1243;2034;9;21;ec21;Rua do Campo Alegre;254;4150-169;Porto;Portugal;41.15275;-8.63324;77
+cttpereiro;1234;cliente22@email.com;CTT Pereiro;111111134;1244;2045;10;12;ec22;Praça Afranio Peixoto;100;4100-022;Porto;Portugal;41.17249;-8.65712;68
+tecofix;1234;cliente23@email.com;Tecofix;111111135;1245;2034;11;22;ec23;Rua Pedro Jose Ferreira;221;4510-706;Fânzeres;Portugal;41.15393;-8.54923;84
+fishisco;1234;cliente24@email.com;FISHISCO Pesca;111111136;1247;2027;12;23;ec24;Rua Faia;13;4300-526;Porto;Portugal;41.14428;-8.57741;6

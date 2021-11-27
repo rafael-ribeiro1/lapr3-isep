@@ -1,0 +1,525 @@
+ef1;ef2;duplo sentido;Gravilha;3.27;-123
+ef1;ef3;duplo sentido;Gravilha;0.6;88
+ef1;ef4;duplo sentido;Calcada;1.0;-84
+ef1;ef5;duplo sentido;Calcada;3.28;91
+ef1;ef6;duplo sentido;Asfalto novo;0.66;70
+ef1;ef7;duplo sentido;Calcada;1.63;-106
+ef1;ef8;duplo sentido;Gravilha;3.07;-2
+ef1;ef9;duplo sentido;Gravilha nova;2.23;-62
+ef1;ec1;duplo sentido;Gravilha nova;1.6;-120
+ef1;ec2;duplo sentido;Asfalto novo;1.98;124
+ef1;ec3;duplo sentido;Calcada;2.7;67
+ef1;ec4;duplo sentido;Asfalto;0.81;-10
+ef1;ec5;duplo sentido;Gravilha nova;1.43;-120
+ef1;ec6;duplo sentido;Asfalto novo;1.02;-30
+ef1;ec7;duplo sentido;Calcada;1.99;-5
+ef1;ec8;duplo sentido;Calcada;2.43;-113
+ef1;ec9;duplo sentido;Gravilha;2.85;-130
+ef1;ec10;duplo sentido;Calcada;2.32;46
+ef1;ec11;duplo sentido;Gravilha;2.21;80
+ef1;ec12;duplo sentido;Asfalto;3.26;-59
+ef1;ec13;duplo sentido;Asfalto novo;1.27;66
+ef1;ec14;duplo sentido;Gravilha;1.25;145
+ef1;ec15;duplo sentido;Gravilha nova;2.82;-34
+ef1;ec16;duplo sentido;Gravilha;1.85;92
+ef1;ec17;duplo sentido;Asfalto;2.67;68
+ef1;ec18;duplo sentido;Asfalto novo;3.0;20
+ef1;ec19;duplo sentido;Asfalto novo;1.85;15
+ef1;ec20;duplo sentido;Calcada;1.13;-33
+ef1;ec21;duplo sentido;Asfalto novo;2.72;115
+ef1;ec22;duplo sentido;Gravilha;1.47;125
+ef1;ec23;duplo sentido;Asfalto novo;1.45;-60
+ef1;ec24;duplo sentido;Asfalto novo;3.08;-62
+ef2;ef3;duplo sentido;Calcada;1.51;52
+ef2;ef4;duplo sentido;Asfalto;3.23;-33
+ef2;ef5;duplo sentido;Gravilha nova;2.97;-122
+ef2;ef6;duplo sentido;Gravilha nova;1.63;9
+ef2;ef7;duplo sentido;Asfalto;3.47;54
+ef2;ef8;duplo sentido;Asfalto novo;3.13;115
+ef2;ef9;duplo sentido;Calcada;0.9;39
+ef2;ec1;duplo sentido;Gravilha nova;1.4;92
+ef2;ec2;duplo sentido;Gravilha;2.73;-133
+ef2;ec3;duplo sentido;Gravilha nova;2.03;70
+ef2;ec4;duplo sentido;Calcada;1.62;136
+ef2;ec5;duplo sentido;Calcada;1.36;-31
+ef2;ec6;duplo sentido;Asfalto;1.13;57
+ef2;ec7;sentido unico 1 para 2;Gravilha;2.46;129
+ef2;ec8;duplo sentido;Gravilha nova;0.54;-119
+ef2;ec9;duplo sentido;Gravilha;1.92;119
+ef2;ec11;duplo sentido;Gravilha;1.17;124
+ef2;ec12;duplo sentido;Asfalto;0.58;90
+ef2;ec13;duplo sentido;Gravilha;1.99;-137
+ef2;ec14;duplo sentido;Asfalto novo;0.99;114
+ef2;ec15;duplo sentido;Asfalto novo;1.78;148
+ef2;ec16;duplo sentido;Asfalto;0.77;-106
+ef2;ec17;duplo sentido;Gravilha nova;3.23;130
+ef2;ec18;duplo sentido;Calcada;1.05;-95
+ef2;ec19;duplo sentido;Gravilha;2.77;-41
+ef2;ec20;duplo sentido;Gravilha nova;0.69;-92
+ef2;ec21;duplo sentido;Gravilha nova;1.26;27
+ef2;ec22;duplo sentido;Asfalto;1.68;0
+ef2;ec23;duplo sentido;Gravilha;2.14;0
+ef2;ec24;duplo sentido;Asfalto novo;1.75;-108
+ef3;ef4;duplo sentido;Gravilha;2.44;-59
+ef3;ef5;duplo sentido;Gravilha nova;1.4;41
+ef3;ef6;duplo sentido;Asfalto novo;3.02;34
+ef3;ef7;duplo sentido;Calcada;1.43;-130
+ef3;ef8;duplo sentido;Gravilha nova;3.12;83
+ef3;ef9;duplo sentido;Asfalto novo;2.76;-135
+ef3;ec1;duplo sentido;Asfalto novo;2.22;-24
+ef3;ec2;duplo sentido;Gravilha nova;0.91;77
+ef3;ec3;duplo sentido;Asfalto novo;1.33;-74
+ef3;ec4;duplo sentido;Asfalto novo;3.22;-112
+ef3;ec5;duplo sentido;Asfalto novo;2.15;20
+ef3;ec6;duplo sentido;Asfalto;1.52;82
+ef3;ec7;duplo sentido;Calcada;3.01;-43
+ef3;ec8;duplo sentido;Gravilha;3.14;-106
+ef3;ec9;duplo sentido;Gravilha nova;0.89;-19
+ef3;ec10;duplo sentido;Asfalto novo;0.75;-8
+ef3;ec11;duplo sentido;Asfalto;1.67;-85
+ef3;ec12;duplo sentido;Asfalto;2.85;-114
+ef3;ec13;duplo sentido;Gravilha nova;1.39;142
+ef3;ec14;duplo sentido;Calcada;2.4;104
+ef3;ec15;sentido unico 1 para 2;Gravilha;1.21;12
+ef3;ec16;duplo sentido;Asfalto;2.58;-121
+ef3;ec17;duplo sentido;Asfalto;1.0;-71
+ef3;ec18;duplo sentido;Gravilha;3.48;-29
+ef3;ec19;duplo sentido;Gravilha;1.63;115
+ef3;ec20;duplo sentido;Asfalto novo;1.98;84
+ef3;ec21;duplo sentido;Gravilha nova;0.55;-88
+ef3;ec22;duplo sentido;Asfalto novo;3.29;-78
+ef3;ec23;duplo sentido;Gravilha nova;2.16;115
+ef3;ec24;duplo sentido;Calcada;0.63;-7
+ef4;ef5;duplo sentido;Gravilha;1.25;87
+ef4;ef6;duplo sentido;Asfalto;1.13;-23
+ef4;ef7;duplo sentido;Asfalto novo;1.68;-103
+ef4;ef8;duplo sentido;Calcada;3.05;-95
+ef4;ef9;duplo sentido;Gravilha nova;0.75;-23
+ef4;ec1;duplo sentido;Gravilha nova;1.52;36
+ef4;ec2;duplo sentido;Calcada;0.88;28
+ef4;ec3;duplo sentido;Gravilha nova;1.9;-72
+ef4;ec4;duplo sentido;Asfalto;2.37;75
+ef4;ec5;sentido unico 1 para 2;Calcada;2.45;-17
+ef4;ec6;duplo sentido;Asfalto;2.23;20
+ef4;ec7;duplo sentido;Gravilha nova;2.22;-98
+ef4;ec8;duplo sentido;Asfalto;1.66;48
+ef4;ec9;duplo sentido;Asfalto;3.46;-127
+ef4;ec10;duplo sentido;Gravilha nova;1.67;-111
+ef4;ec11;duplo sentido;Gravilha;0.8;47
+ef4;ec12;duplo sentido;Gravilha;1.31;-122
+ef4;ec13;duplo sentido;Gravilha;3.09;145
+ef4;ec14;duplo sentido;Calcada;1.21;-81
+ef4;ec15;duplo sentido;Asfalto;1.06;150
+ef4;ec16;duplo sentido;Asfalto novo;2.73;139
+ef4;ec17;duplo sentido;Asfalto;2.42;136
+ef4;ec18;duplo sentido;Asfalto novo;1.99;25
+ef4;ec19;sentido unico 1 para 2;Asfalto novo;2.71;45
+ef4;ec20;duplo sentido;Calcada;2.16;81
+ef4;ec21;duplo sentido;Gravilha;1.42;-78
+ef4;ec22;duplo sentido;Gravilha;0.63;65
+ef4;ec23;duplo sentido;Asfalto novo;1.07;-140
+ef4;ec24;duplo sentido;Asfalto novo;0.73;-21
+ef5;ef6;duplo sentido;Asfalto novo;1.33;134
+ef5;ef7;duplo sentido;Gravilha;1.96;-146
+ef5;ef8;duplo sentido;Calcada;2.18;89
+ef5;ef9;duplo sentido;Asfalto novo;1.39;-146
+ef5;ec1;duplo sentido;Asfalto;1.94;96
+ef5;ec2;duplo sentido;Gravilha nova;0.64;87
+ef5;ec3;duplo sentido;Calcada;2.97;-133
+ef5;ec4;duplo sentido;Gravilha nova;3.16;78
+ef5;ec5;duplo sentido;Asfalto novo;0.84;44
+ef5;ec6;duplo sentido;Calcada;2.18;127
+ef5;ec7;duplo sentido;Calcada;1.69;-24
+ef5;ec8;duplo sentido;Gravilha;1.13;20
+ef5;ec9;duplo sentido;Gravilha nova;0.68;-123
+ef5;ec10;duplo sentido;Gravilha nova;3.19;8
+ef5;ec11;duplo sentido;Gravilha nova;1.4;-25
+ef5;ec12;duplo sentido;Asfalto;1.0;24
+ef5;ec13;duplo sentido;Asfalto;1.21;-6
+ef5;ec14;duplo sentido;Gravilha nova;2.38;-113
+ef5;ec15;duplo sentido;Gravilha;2.04;-147
+ef5;ec16;duplo sentido;Calcada;3.21;-137
+ef5;ec17;duplo sentido;Gravilha;1.88;-95
+ef5;ec18;duplo sentido;Calcada;2.25;-69
+ef5;ec19;duplo sentido;Asfalto;2.25;-147
+ef5;ec20;duplo sentido;Asfalto;1.55;1
+ef5;ec21;duplo sentido;Calcada;0.5;-25
+ef5;ec22;duplo sentido;Gravilha;2.77;-74
+ef5;ec23;duplo sentido;Calcada;1.69;-10
+ef5;ec24;duplo sentido;Asfalto novo;0.53;25
+ef6;ef7;duplo sentido;Asfalto;1.85;142
+ef6;ef8;duplo sentido;Gravilha;3.27;62
+ef6;ef9;duplo sentido;Asfalto;3.06;-126
+ef6;ec1;duplo sentido;Gravilha;1.55;-134
+ef6;ec2;duplo sentido;Gravilha nova;2.02;-112
+ef6;ec3;duplo sentido;Calcada;2.13;95
+ef6;ec4;duplo sentido;Gravilha nova;3.19;-74
+ef6;ec5;duplo sentido;Gravilha;1.39;10
+ef6;ec6;duplo sentido;Gravilha;2.19;-134
+ef6;ec7;duplo sentido;Asfalto;1.94;26
+ef6;ec8;duplo sentido;Asfalto novo;1.15;-107
+ef6;ec9;duplo sentido;Calcada;1.43;49
+ef6;ec10;duplo sentido;Asfalto novo;0.96;89
+ef6;ec11;duplo sentido;Calcada;1.24;-88
+ef6;ec12;duplo sentido;Asfalto novo;2.76;95
+ef6;ec13;duplo sentido;Asfalto novo;3.26;62
+ef6;ec14;duplo sentido;Calcada;2.13;-76
+ef6;ec15;duplo sentido;Asfalto novo;1.8;75
+ef6;ec16;duplo sentido;Asfalto;2.63;23
+ef6;ec17;duplo sentido;Gravilha nova;0.68;94
+ef6;ec18;duplo sentido;Gravilha nova;1.49;0
+ef6;ec19;duplo sentido;Asfalto;2.48;-23
+ef6;ec20;duplo sentido;Asfalto novo;2.81;-75
+ef6;ec21;duplo sentido;Asfalto novo;2.45;-145
+ef6;ec22;duplo sentido;Gravilha nova;3.45;-8
+ef6;ec23;duplo sentido;Calcada;2.56;64
+ef6;ec24;duplo sentido;Asfalto novo;0.66;-114
+ef7;ef8;duplo sentido;Asfalto;2.13;-121
+ef7;ef9;duplo sentido;Gravilha nova;0.73;92
+ef7;ec1;duplo sentido;Gravilha nova;0.77;79
+ef7;ec2;duplo sentido;Asfalto;0.99;-12
+ef7;ec3;duplo sentido;Asfalto;1.46;-8
+ef7;ec4;duplo sentido;Calcada;1.46;112
+ef7;ec5;duplo sentido;Asfalto;0.94;106
+ef7;ec6;duplo sentido;Calcada;2.64;-143
+ef7;ec7;duplo sentido;Asfalto novo;0.78;-112
+ef7;ec8;duplo sentido;Gravilha;2.37;-48
+ef7;ec9;duplo sentido;Gravilha;2.62;-97
+ef7;ec10;duplo sentido;Asfalto;2.63;18
+ef7;ec11;duplo sentido;Asfalto;1.79;-111
+ef7;ec12;duplo sentido;Calcada;2.96;-94
+ef7;ec13;duplo sentido;Gravilha;1.52;-2
+ef7;ec14;duplo sentido;Gravilha;2.95;13
+ef7;ec15;duplo sentido;Calcada;3.2;-83
+ef7;ec16;duplo sentido;Asfalto novo;1.06;-56
+ef7;ec17;duplo sentido;Calcada;1.24;-143
+ef7;ec18;duplo sentido;Asfalto;3.31;63
+ef7;ec19;duplo sentido;Calcada;3.13;-146
+ef7;ec20;duplo sentido;Gravilha nova;3.42;124
+ef7;ec21;duplo sentido;Gravilha;3.22;-23
+ef7;ec22;duplo sentido;Gravilha;2.0;54
+ef7;ec23;duplo sentido;Gravilha;2.89;-126
+ef7;ec24;duplo sentido;Asfalto novo;3.4;-72
+ef8;ef9;duplo sentido;Calcada;3.2;22
+ef8;ec1;duplo sentido;Gravilha;1.62;-140
+ef8;ec2;duplo sentido;Asfalto novo;2.57;-68
+ef8;ec3;duplo sentido;Gravilha;2.93;-146
+ef8;ec4;duplo sentido;Gravilha;1.85;-115
+ef8;ec5;duplo sentido;Gravilha;2.88;43
+ef8;ec6;duplo sentido;Asfalto novo;3.15;48
+ef8;ec7;duplo sentido;Asfalto;2.99;-114
+ef8;ec8;duplo sentido;Asfalto novo;2.08;74
+ef8;ec9;duplo sentido;Gravilha;2.72;100
+ef8;ec10;duplo sentido;Asfalto;0.87;58
+ef8;ec11;duplo sentido;Gravilha nova;2.39;11
+ef8;ec12;duplo sentido;Asfalto novo;2.4;-86
+ef8;ec13;duplo sentido;Asfalto;0.99;83
+ef8;ec14;duplo sentido;Asfalto novo;1.71;40
+ef8;ec15;duplo sentido;Gravilha nova;2.58;24
+ef8;ec17;duplo sentido;Asfalto;1.56;111
+ef8;ec18;duplo sentido;Calcada;3.2;45
+ef8;ec19;duplo sentido;Calcada;1.61;122
+ef8;ec20;duplo sentido;Gravilha nova;3.39;-80
+ef8;ec21;duplo sentido;Asfalto;2.2;62
+ef8;ec22;duplo sentido;Gravilha nova;3.33;149
+ef8;ec23;duplo sentido;Asfalto;1.7;57
+ef8;ec24;duplo sentido;Gravilha nova;0.55;83
+ef9;ec1;duplo sentido;Gravilha;0.52;7
+ef9;ec2;duplo sentido;Asfalto novo;0.9;38
+ef9;ec3;duplo sentido;Gravilha nova;1.85;15
+ef9;ec4;duplo sentido;Asfalto;2.6;-116
+ef9;ec5;duplo sentido;Asfalto novo;1.86;6
+ef9;ec6;duplo sentido;Calcada;2.52;130
+ef9;ec7;duplo sentido;Asfalto novo;2.2;-102
+ef9;ec8;duplo sentido;Gravilha;0.59;104
+ef9;ec9;duplo sentido;Asfalto novo;2.05;14
+ef9;ec10;duplo sentido;Gravilha nova;1.83;87
+ef9;ec11;duplo sentido;Asfalto;3.16;94
+ef9;ec12;duplo sentido;Asfalto;2.8;-47
+ef9;ec13;duplo sentido;Asfalto novo;2.18;-71
+ef9;ec14;duplo sentido;Gravilha nova;1.18;49
+ef9;ec15;duplo sentido;Gravilha;2.94;6
+ef9;ec16;duplo sentido;Gravilha;1.53;-137
+ef9;ec17;duplo sentido;Calcada;1.79;-143
+ef9;ec18;duplo sentido;Gravilha nova;2.53;-83
+ef9;ec19;duplo sentido;Gravilha;2.78;-132
+ef9;ec20;duplo sentido;Asfalto;0.65;128
+ef9;ec21;duplo sentido;Gravilha nova;1.02;32
+ef9;ec22;duplo sentido;Calcada;2.97;118
+ef9;ec23;duplo sentido;Asfalto novo;0.95;110
+ef9;ec24;duplo sentido;Asfalto;2.68;136
+ec1;ec2;duplo sentido;Gravilha nova;2.24;53
+ec1;ec3;duplo sentido;Gravilha;1.45;30
+ec1;ec4;duplo sentido;Calcada;1.2;-40
+ec1;ec5;duplo sentido;Gravilha nova;1.14;128
+ec1;ec6;duplo sentido;Asfalto novo;1.27;-67
+ec1;ec7;duplo sentido;Asfalto;3.05;115
+ec1;ec8;duplo sentido;Asfalto;3.47;-30
+ec1;ec9;duplo sentido;Gravilha;3.23;83
+ec1;ec10;duplo sentido;Gravilha nova;3.38;-86
+ec1;ec11;duplo sentido;Calcada;0.55;-72
+ec1;ec12;duplo sentido;Calcada;1.37;132
+ec1;ec13;duplo sentido;Asfalto novo;3.18;120
+ec1;ec14;duplo sentido;Gravilha nova;2.62;37
+ec1;ec15;duplo sentido;Gravilha;2.63;-63
+ec1;ec16;duplo sentido;Calcada;0.76;34
+ec1;ec17;duplo sentido;Calcada;0.72;62
+ec1;ec18;duplo sentido;Gravilha nova;1.1;16
+ec1;ec19;duplo sentido;Asfalto;2.99;-57
+ec1;ec20;duplo sentido;Calcada;2.5;147
+ec1;ec21;duplo sentido;Gravilha;1.74;-118
+ec1;ec22;duplo sentido;Gravilha nova;0.54;-36
+ec1;ec23;duplo sentido;Asfalto;1.22;-109
+ec1;ec24;duplo sentido;Calcada;3.25;131
+ec2;ec3;duplo sentido;Gravilha;2.52;-99
+ec2;ec4;duplo sentido;Asfalto;2.82;-85
+ec2;ec5;duplo sentido;Calcada;2.39;97
+ec2;ec6;duplo sentido;Gravilha;2.41;-59
+ec2;ec7;duplo sentido;Calcada;0.99;67
+ec2;ec8;duplo sentido;Asfalto novo;0.98;143
+ec2;ec9;duplo sentido;Asfalto;0.69;12
+ec2;ec10;duplo sentido;Calcada;0.7;120
+ec2;ec11;duplo sentido;Calcada;1.71;61
+ec2;ec12;duplo sentido;Asfalto;2.86;-116
+ec2;ec13;sentido unico 1 para 2;Gravilha;0.95;115
+ec2;ec14;duplo sentido;Gravilha;0.99;24
+ec2;ec15;duplo sentido;Asfalto;0.89;115
+ec2;ec16;duplo sentido;Asfalto novo;3.36;58
+ec2;ec17;duplo sentido;Asfalto;1.79;2
+ec2;ec18;duplo sentido;Calcada;1.55;128
+ec2;ec19;duplo sentido;Gravilha nova;3.23;28
+ec2;ec20;duplo sentido;Gravilha;0.75;0
+ec2;ec21;duplo sentido;Asfalto;1.41;47
+ec2;ec22;duplo sentido;Gravilha;2.88;-115
+ec2;ec23;duplo sentido;Gravilha nova;1.37;55
+ec2;ec24;duplo sentido;Asfalto;2.45;-141
+ec3;ec4;duplo sentido;Gravilha nova;3.09;-149
+ec3;ec5;duplo sentido;Gravilha nova;0.69;-85
+ec3;ec6;duplo sentido;Gravilha nova;2.74;-41
+ec3;ec7;duplo sentido;Asfalto novo;2.55;94
+ec3;ec8;duplo sentido;Calcada;3.23;18
+ec3;ec9;duplo sentido;Gravilha;3.45;32
+ec3;ec10;duplo sentido;Calcada;3.11;-38
+ec3;ec11;duplo sentido;Asfalto;0.6;43
+ec3;ec12;sentido unico 2 para 1;Gravilha nova;2.97;-76
+ec3;ec13;duplo sentido;Gravilha nova;1.35;-73
+ec3;ec14;duplo sentido;Gravilha nova;1.47;-98
+ec3;ec15;sentido unico 2 para 1;Asfalto;3.12;103
+ec3;ec16;duplo sentido;Asfalto;2.49;-25
+ec3;ec17;duplo sentido;Calcada;2.78;68
+ec3;ec18;duplo sentido;Asfalto novo;1.04;-53
+ec3;ec19;duplo sentido;Asfalto;2.4;-132
+ec3;ec20;duplo sentido;Gravilha nova;1.93;-78
+ec3;ec21;duplo sentido;Gravilha;1.17;129
+ec3;ec22;duplo sentido;Asfalto;1.58;-123
+ec3;ec23;duplo sentido;Asfalto;1.25;27
+ec3;ec24;duplo sentido;Asfalto novo;2.55;-83
+ec4;ec5;duplo sentido;Asfalto novo;2.0;37
+ec4;ec6;duplo sentido;Gravilha;2.81;-130
+ec4;ec7;duplo sentido;Asfalto;2.37;-36
+ec4;ec8;duplo sentido;Asfalto;2.99;-74
+ec4;ec9;duplo sentido;Asfalto novo;0.89;-142
+ec4;ec10;duplo sentido;Calcada;2.21;138
+ec4;ec11;duplo sentido;Asfalto novo;3.16;-133
+ec4;ec12;duplo sentido;Asfalto novo;2.8;52
+ec4;ec13;duplo sentido;Asfalto novo;2.9;9
+ec4;ec14;duplo sentido;Asfalto;1.83;-44
+ec4;ec15;duplo sentido;Calcada;1.71;11
+ec4;ec16;duplo sentido;Gravilha;2.26;44
+ec4;ec17;duplo sentido;Asfalto;1.25;51
+ec4;ec18;duplo sentido;Asfalto;1.69;-85
+ec4;ec19;duplo sentido;Calcada;2.93;96
+ec4;ec20;duplo sentido;Gravilha;2.25;109
+ec4;ec21;sentido unico 2 para 1;Gravilha nova;1.68;-135
+ec4;ec22;duplo sentido;Gravilha nova;1.72;32
+ec4;ec23;duplo sentido;Calcada;3.31;145
+ec4;ec24;duplo sentido;Gravilha;0.78;-87
+ec5;ec6;duplo sentido;Calcada;1.87;114
+ec5;ec7;duplo sentido;Asfalto;1.73;-85
+ec5;ec8;duplo sentido;Calcada;0.73;-48
+ec5;ec9;duplo sentido;Gravilha nova;1.09;-121
+ec5;ec10;duplo sentido;Gravilha nova;1.6;103
+ec5;ec11;duplo sentido;Calcada;1.3;-55
+ec5;ec12;duplo sentido;Asfalto;3.13;-12
+ec5;ec13;duplo sentido;Asfalto;2.77;136
+ec5;ec14;duplo sentido;Calcada;1.64;6
+ec5;ec15;duplo sentido;Asfalto novo;2.77;133
+ec5;ec16;duplo sentido;Calcada;2.6;-65
+ec5;ec17;duplo sentido;Asfalto;3.32;-63
+ec5;ec18;duplo sentido;Gravilha;1.19;-28
+ec5;ec19;duplo sentido;Gravilha nova;2.15;72
+ec5;ec20;duplo sentido;Calcada;2.52;-122
+ec5;ec21;duplo sentido;Gravilha;1.98;93
+ec5;ec22;duplo sentido;Gravilha nova;3.04;-84
+ec5;ec23;duplo sentido;Gravilha nova;3.43;116
+ec5;ec24;duplo sentido;Asfalto;1.62;79
+ec6;ec7;duplo sentido;Asfalto novo;2.79;-121
+ec6;ec8;duplo sentido;Gravilha;2.86;-94
+ec6;ec9;duplo sentido;Gravilha nova;1.02;43
+ec6;ec10;duplo sentido;Asfalto novo;3.26;4
+ec6;ec11;duplo sentido;Asfalto novo;2.04;-44
+ec6;ec12;duplo sentido;Gravilha;0.84;0
+ec6;ec13;duplo sentido;Asfalto;2.53;-140
+ec6;ec14;duplo sentido;Calcada;2.35;-25
+ec6;ec15;duplo sentido;Gravilha nova;2.03;-57
+ec6;ec16;duplo sentido;Calcada;3.45;149
+ec6;ec17;duplo sentido;Calcada;2.41;109
+ec6;ec18;duplo sentido;Asfalto;3.11;113
+ec6;ec19;duplo sentido;Gravilha;1.4;14
+ec6;ec20;duplo sentido;Calcada;1.47;4
+ec6;ec21;duplo sentido;Gravilha nova;1.99;88
+ec6;ec22;duplo sentido;Calcada;0.5;143
+ec6;ec23;duplo sentido;Gravilha nova;0.85;84
+ec6;ec24;duplo sentido;Asfalto;2.24;38
+ec7;ec8;duplo sentido;Asfalto;2.82;-119
+ec7;ec9;duplo sentido;Calcada;1.81;-49
+ec7;ec10;duplo sentido;Gravilha nova;3.16;-17
+ec7;ec11;duplo sentido;Asfalto novo;3.25;102
+ec7;ec12;duplo sentido;Calcada;2.86;106
+ec7;ec13;duplo sentido;Asfalto;1.56;76
+ec7;ec14;duplo sentido;Asfalto novo;2.25;-76
+ec7;ec15;duplo sentido;Calcada;2.84;14
+ec7;ec16;duplo sentido;Gravilha;3.34;-71
+ec7;ec17;duplo sentido;Gravilha nova;1.48;139
+ec7;ec18;duplo sentido;Asfalto novo;0.93;53
+ec7;ec19;duplo sentido;Asfalto novo;1.16;-61
+ec7;ec20;duplo sentido;Gravilha nova;1.33;41
+ec7;ec21;duplo sentido;Asfalto novo;2.52;-78
+ec7;ec22;duplo sentido;Gravilha;3.05;52
+ec7;ec23;duplo sentido;Gravilha nova;1.11;119
+ec7;ec24;duplo sentido;Asfalto;2.36;-147
+ec8;ec9;duplo sentido;Asfalto;0.96;25
+ec8;ec10;duplo sentido;Calcada;0.92;116
+ec8;ec11;duplo sentido;Calcada;2.83;1
+ec8;ec12;duplo sentido;Gravilha nova;2.85;-80
+ec8;ec13;duplo sentido;Asfalto;1.09;122
+ec8;ec14;duplo sentido;Calcada;2.03;119
+ec8;ec15;duplo sentido;Gravilha nova;1.68;-37
+ec8;ec16;duplo sentido;Asfalto;1.1;-68
+ec8;ec17;duplo sentido;Gravilha;3.27;80
+ec8;ec18;duplo sentido;Asfalto novo;2.42;135
+ec8;ec19;duplo sentido;Gravilha;0.87;3
+ec8;ec20;sentido unico 2 para 1;Asfalto;3.21;6
+ec8;ec21;duplo sentido;Asfalto;0.69;-55
+ec8;ec22;duplo sentido;Gravilha;3.35;-36
+ec8;ec23;duplo sentido;Gravilha nova;1.78;5
+ec8;ec24;duplo sentido;Gravilha nova;3.37;133
+ec9;ec10;duplo sentido;Gravilha nova;3.47;5
+ec9;ec11;duplo sentido;Asfalto novo;2.7;-145
+ec9;ec12;duplo sentido;Gravilha nova;1.88;85
+ec9;ec13;duplo sentido;Asfalto novo;0.94;109
+ec9;ec14;duplo sentido;Calcada;2.82;-49
+ec9;ec15;duplo sentido;Asfalto;1.08;24
+ec9;ec16;duplo sentido;Gravilha nova;0.61;-116
+ec9;ec17;duplo sentido;Calcada;2.14;122
+ec9;ec18;duplo sentido;Asfalto;3.43;3
+ec9;ec19;duplo sentido;Gravilha;2.54;-81
+ec9;ec20;duplo sentido;Asfalto;2.87;16
+ec9;ec21;duplo sentido;Asfalto;1.82;112
+ec9;ec22;duplo sentido;Calcada;1.19;134
+ec9;ec23;duplo sentido;Gravilha nova;0.61;-129
+ec9;ec24;duplo sentido;Asfalto;2.2;73
+ec10;ec11;duplo sentido;Asfalto novo;1.45;63
+ec10;ec12;duplo sentido;Calcada;2.81;-96
+ec10;ec13;duplo sentido;Gravilha nova;0.82;-144
+ec10;ec14;duplo sentido;Asfalto novo;2.0;-135
+ec10;ec15;duplo sentido;Asfalto novo;2.82;7
+ec10;ec16;duplo sentido;Gravilha;0.57;-148
+ec10;ec17;duplo sentido;Calcada;1.51;46
+ec10;ec18;duplo sentido;Gravilha nova;1.94;81
+ec10;ec19;duplo sentido;Calcada;1.38;143
+ec10;ec20;duplo sentido;Gravilha nova;2.66;71
+ec10;ec21;duplo sentido;Gravilha;2.86;-79
+ec10;ec22;sentido unico 2 para 1;Calcada;1.99;-104
+ec10;ec23;duplo sentido;Gravilha;1.44;-140
+ec10;ec24;duplo sentido;Gravilha;0.54;140
+ec11;ec12;duplo sentido;Asfalto;1.31;-146
+ec11;ec13;duplo sentido;Gravilha;2.08;-147
+ec11;ec14;duplo sentido;Gravilha nova;1.28;-105
+ec11;ec15;duplo sentido;Asfalto;1.63;118
+ec11;ec16;duplo sentido;Asfalto novo;2.38;-57
+ec11;ec17;duplo sentido;Calcada;1.83;32
+ec11;ec18;sentido unico 2 para 1;Asfalto;3.43;-85
+ec11;ec19;sentido unico 2 para 1;Asfalto;1.32;11
+ec11;ec20;duplo sentido;Asfalto novo;0.62;-87
+ec11;ec21;duplo sentido;Gravilha;2.56;-69
+ec11;ec22;duplo sentido;Gravilha;0.52;-13
+ec11;ec23;duplo sentido;Calcada;3.37;67
+ec11;ec24;duplo sentido;Asfalto;3.46;-43
+ec12;ec13;duplo sentido;Calcada;3.08;-84
+ec12;ec14;duplo sentido;Asfalto novo;0.86;-7
+ec12;ec15;duplo sentido;Asfalto;1.64;29
+ec12;ec16;duplo sentido;Gravilha;1.81;12
+ec12;ec17;duplo sentido;Asfalto novo;2.82;-94
+ec12;ec18;duplo sentido;Gravilha;2.3;134
+ec12;ec19;duplo sentido;Gravilha;1.17;98
+ec12;ec20;duplo sentido;Gravilha;2.17;-142
+ec12;ec21;duplo sentido;Asfalto novo;3.11;-82
+ec12;ec22;duplo sentido;Gravilha nova;0.89;-122
+ec12;ec23;duplo sentido;Calcada;0.77;-86
+ec12;ec24;duplo sentido;Gravilha nova;1.48;95
+ec13;ec14;duplo sentido;Gravilha nova;2.35;138
+ec13;ec15;duplo sentido;Calcada;1.5;135
+ec13;ec16;duplo sentido;Gravilha nova;2.04;136
+ec13;ec17;duplo sentido;Gravilha nova;1.05;-106
+ec13;ec18;duplo sentido;Gravilha nova;1.56;34
+ec13;ec19;duplo sentido;Asfalto novo;1.78;-21
+ec13;ec20;duplo sentido;Asfalto novo;0.94;-55
+ec13;ec21;duplo sentido;Gravilha nova;0.73;-53
+ec13;ec22;duplo sentido;Gravilha;3.11;-120
+ec13;ec23;duplo sentido;Gravilha;1.48;126
+ec13;ec24;duplo sentido;Calcada;2.72;-117
+ec14;ec15;duplo sentido;Asfalto;1.73;114
+ec14;ec16;duplo sentido;Asfalto novo;2.01;33
+ec14;ec17;duplo sentido;Asfalto;3.31;-56
+ec14;ec18;duplo sentido;Gravilha;3.17;121
+ec14;ec19;duplo sentido;Calcada;1.34;-37
+ec14;ec20;duplo sentido;Gravilha;2.87;-17
+ec14;ec21;duplo sentido;Gravilha nova;2.3;-8
+ec14;ec22;duplo sentido;Gravilha nova;2.92;2
+ec14;ec23;duplo sentido;Calcada;2.06;-68
+ec14;ec24;duplo sentido;Gravilha;0.66;93
+ec15;ec16;duplo sentido;Asfalto;0.73;-90
+ec15;ec17;duplo sentido;Gravilha nova;2.65;-87
+ec15;ec18;duplo sentido;Asfalto novo;3.42;-106
+ec15;ec19;duplo sentido;Gravilha;3.0;-55
+ec15;ec20;duplo sentido;Gravilha;3.09;81
+ec15;ec21;duplo sentido;Asfalto;1.74;-40
+ec15;ec22;duplo sentido;Gravilha;3.41;-145
+ec15;ec23;duplo sentido;Asfalto;2.48;-32
+ec15;ec24;duplo sentido;Asfalto;0.67;-122
+ec16;ec17;duplo sentido;Asfalto novo;0.78;-28
+ec16;ec18;duplo sentido;Gravilha;0.8;-86
+ec16;ec19;duplo sentido;Calcada;2.48;23
+ec16;ec20;duplo sentido;Gravilha;1.36;132
+ec16;ec21;duplo sentido;Gravilha nova;1.43;-76
+ec16;ec22;duplo sentido;Asfalto;1.75;52
+ec16;ec23;duplo sentido;Asfalto;1.9;58
+ec16;ec24;duplo sentido;Gravilha;1.2;18
+ec17;ec18;duplo sentido;Gravilha nova;1.08;-24
+ec17;ec19;duplo sentido;Asfalto;2.21;-118
+ec17;ec20;duplo sentido;Asfalto novo;3.06;-131
+ec17;ec21;duplo sentido;Calcada;0.72;0
+ec17;ec22;duplo sentido;Calcada;0.65;-127
+ec17;ec23;duplo sentido;Gravilha;2.37;-9
+ec17;ec24;duplo sentido;Calcada;2.79;-81
+ec18;ec19;duplo sentido;Asfalto;2.89;57
+ec18;ec20;duplo sentido;Gravilha;2.18;-21
+ec18;ec21;duplo sentido;Asfalto novo;1.24;76
+ec18;ec22;duplo sentido;Gravilha nova;3.33;38
+ec18;ec23;duplo sentido;Gravilha nova;2.52;-118
+ec18;ec24;duplo sentido;Gravilha;2.92;-62
+ec19;ec20;duplo sentido;Asfalto novo;2.23;-65
+ec19;ec21;duplo sentido;Asfalto;1.21;-36
+ec19;ec22;duplo sentido;Gravilha;2.28;111
+ec19;ec23;duplo sentido;Gravilha nova;2.18;-97
+ec19;ec24;duplo sentido;Calcada;2.88;-47
+ec20;ec21;duplo sentido;Calcada;1.08;52
+ec20;ec22;duplo sentido;Gravilha;0.95;92
+ec20;ec23;duplo sentido;Asfalto novo;1.14;0
+ec20;ec24;duplo sentido;Gravilha;2.7;-118
+ec21;ec22;duplo sentido;Gravilha nova;3.47;-48
+ec21;ec23;duplo sentido;Gravilha nova;2.25;-12
+ec21;ec24;duplo sentido;Gravilha nova;3.17;83
+ec22;ec23;duplo sentido;Gravilha;2.04;-31
+ec22;ec24;duplo sentido;Gravilha;2.5;138

@@ -1,0 +1,13 @@
+#AdicionarScooter
+#capacidadeBateria;cargaAtual;comprimento;largura;peso;velocidade;isCargaSlot;farmacia
+100;100;1.2;0.25;50.0;8.3;false;1
+45;76;1.0;0.3;50.0;8.6;false;1
+100;33;0.8;0.375;50.0;6.8;true;2
+95;100;2.0;0.15;50.0;7.4;false;2
+98;98;1.5;0.2;50.0;4.5;false;3
+90;84;0.75;0.4;50.0;10.3;false;4
+97;72;0.6;0.5;50.0;12.4;false;5
+98;16;1.0;0.3;50.0;13.4;true;6
+82;89;0.91;0.33;50.0;11.5;false;7
+96;45;0.55;0.55;50.0;8.6;true;8
+78;100;2.5;0.12;50.0;9.4;false;9
